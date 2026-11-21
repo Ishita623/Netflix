@@ -16,7 +16,6 @@ An interactive **Tableau dashboard** that analyzes Netflix's content library by 
 - [Tools Used](#-tools-used)
 - [How to Use](#-how-to-use)
 - [Project Structure](#-project-structure)
-- [Author](#-author)
 
 ---
 
